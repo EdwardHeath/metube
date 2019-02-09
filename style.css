@@ -1,0 +1,23 @@
+html {
+    font-family: roboto;
+}
+
+.nav {
+    background-color: green;
+}
+
+.video {
+    background-color: pink;
+}
+
+.sidebar {
+    background-color: blue;
+}
+
+.info {
+    background-color: red;
+}
+
+.comments {
+    background-color: yellow;
+}
